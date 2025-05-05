@@ -36,8 +36,8 @@ I'm a passionate Backend Developer with experience in Python, Django, MySQL, and
 Blog CMS is a content management system built with PHP, Laravel, and Vue.js. This project showcases my skills in building RESTful APIs, managing user roles and permissions, and integrating frontend frameworks with backend systems.
 ## Get in Touch 📬
 
-- **[Personal Website]**(https://keroojoseph.github.io/Protfolio/)
-- **[LinkedIn]**(https://www.linkedin.com/in/keroo-joseph/)
-- **[Twitter]**(https://x.com/KerooJoseph)
+- **[Personal Website]** https://keroojoseph.github.io/Protfolio/
+- **[LinkedIn]** https://www.linkedin.com/in/keroo-joseph/
+- **[Twitter]** https://x.com/KerooJoseph
 
 
