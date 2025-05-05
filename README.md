@@ -23,11 +23,11 @@ I'm a passionate Backend Developer with experience in Python, Django, MySQL, and
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Expense Tracker App](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Project 1 Title]** Expense Tracker App is a personal finance management tool built with Laravel, MySQL, and Bootstrap. This project demonstrates my ability to design database schemas, build secure authentication systems, and manage CRUD operations efficiently.
 
 ### [Project 2 Title](project_2_link)
 
