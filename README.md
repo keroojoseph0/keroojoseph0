@@ -1,6 +1,6 @@
 # Hi there, I'm Keroles Joseph! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/user-attachments/assets/394d29ff-3c40-4102-8119-4b407e6e9d89)
 
 ## About Me 🚀
 
