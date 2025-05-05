@@ -25,13 +25,13 @@ I'm a passionate Backend Developer with experience in Python, Django, MySQL, and
 
 ### [Expense Tracker App](project_1_link)
 
-![Project 1 Screenshot](screenshot_url)
+![Screenshot](screenshot_url)
 
  Expense Tracker App is a personal finance management tool built with Laravel, MySQL, and Bootstrap. This project demonstrates my ability to design database schemas, build secure authentication systems, and manage CRUD operations efficiently.
 
 ### [Blog CMS](project_2_link)
 
-![Project 2 Screenshot](screenshot_url)
+![Screenshot](screenshot_url)
 
 Blog CMS is a content management system built with PHP, Laravel, and Vue.js. This project showcases my skills in building RESTful APIs, managing user roles and permissions, and integrating frontend frameworks with backend systems.
 ## Get in Touch 📬
