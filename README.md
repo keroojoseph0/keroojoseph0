@@ -25,20 +25,19 @@ I'm a passionate Backend Developer with experience in Python, Django, MySQL, and
 
 ### [Expense Tracker App](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](screenshot_url)
 
-**[Project 1 Title]** Expense Tracker App is a personal finance management tool built with Laravel, MySQL, and Bootstrap. This project demonstrates my ability to design database schemas, build secure authentication systems, and manage CRUD operations efficiently.
+ Expense Tracker App is a personal finance management tool built with Laravel, MySQL, and Bootstrap. This project demonstrates my ability to design database schemas, build secure authentication systems, and manage CRUD operations efficiently.
 
-### [Project 2 Title](project_2_link)
+### [Blog CMS](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
+Blog CMS is a content management system built with PHP, Laravel, and Vue.js. This project showcases my skills in building RESTful APIs, managing user roles and permissions, and integrating frontend frameworks with backend systems.
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website]**(https://keroojoseph.github.io/Protfolio/)
+- **[LinkedIn]**(https://www.linkedin.com/in/keroo-joseph/)
+- **[Twitter]**(https://x.com/KerooJoseph)
 
 
