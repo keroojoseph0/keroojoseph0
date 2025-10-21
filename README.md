@@ -1,43 +1,86 @@
-# Hi there, I'm Keroles Joseph! 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Keroles </h1>
+<h3 align="center">💻 Backend Developer | 🎓 ALX ProDev Learner | 🌍 Passionate about Education & Impact</h3>
 
-![Banner Image](https://github.com/user-attachments/assets/394d29ff-3c40-4102-8119-4b407e6e9d89)
+<!-- About Me Section -->
+<p align="center">
+  <em>
+    I’m a lifelong learner currently mastering <strong>Backend Engineering</strong> through <strong>ALX ProDev</strong> and independent study.<br>
+    I’m driven by a mission to use technology to <strong>empower education</strong> and make knowledge accessible for everyone.  
+  </em>
+</p>
 
-## About Me 🚀
+---
 
-I'm a passionate Backend Developer with experience in Python, Django, MySQL, and RESTful APIs. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+### 🚀 About Me
 
-- 🌱 Currently learning: Advanced Django features, and Docker
-- 🔭 Working on: A personal finance tracking app using Django
-- 🌍 Languages: Python, PHP, SQL, English, Arabic
-- 📫 How to reach me: keroojoseph2@gmail.com
-- ⚡ Fun fact: I once automated my entire morning routine with scripts and smart devices!
+- 🌱 I’m currently learning **Django**, **APIs**, and **AI-powered backend systems**  
+- 💡 My passion: **Building scalable education platforms** and **inspiring learners through technology**  
+- ✍️ I love writing about my learning journey on **tech blogs**  
+- 🎯 My goal: **Work on impactful EdTech projects** that make learning smarter and more inclusive  
+- ⚡ Fun fact: I believe code is not just logic — it’s a language to inspire change  
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🧰 Tech Stack
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-## Featured Projects 💻
+---
 
-### [Expense Tracker App](project_1_link)
+### 🧩 Featured Projects
 
-![Screenshot](screenshot_url)
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🎓 **EduAccess App** | A smart learning platform helping students in underprivileged regions access quality education. | Django, REST API, AI Integration |
+| 📝 **DevLearn Blog** | A personal blog documenting my learning journey and backend insights. | Django, Markdown, SQLite |
+| ⚙️ **AI Bash Assistant** | A command-line helper using AI to understand and automate shell commands. | Python, OpenAI API |
 
- Expense Tracker App is a personal finance management tool built with Laravel, MySQL, and Bootstrap. This project demonstrates my ability to design database schemas, build secure authentication systems, and manage CRUD operations efficiently.
+> 💡 Check out my pinned repositories below to explore these projects in detail!
 
-### [Blog CMS](project_2_link)
+---
 
-![Screenshot](screenshot_url)
+### 🧭 My Learning Path
 
-Blog CMS is a content management system built with PHP, Laravel, and Vue.js. This project showcases my skills in building RESTful APIs, managing user roles and permissions, and integrating frontend frameworks with backend systems.
-## Get in Touch 📬
+- **ALX ProDev (Backend Specialization)** → mastering scalable backend systems  
+- **Self-study:** AI Integration, Cloud Deployment (Render, AWS), and Automation Tools  
+- **Soft Skills:** Problem-solving, collaboration, and learning in public  
 
-- **[Personal Website]** https://keroojoseph0.github.io/Protfolio/
-- **[LinkedIn]** https://www.linkedin.com/in/keroo-joseph/
-- **[Twitter]** https://x.com/KerooJoseph
+---
 
+### ✨ Let’s Connect!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/keroo-joseph/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:keroojoseph2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/keroojoseph0"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://keroojoseph0.github.io/Protfolio/"><img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+</p>
+
+---
+
+### 🧾 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 Quote That Drives Me
+
+> *"Education is the most powerful weapon which you can use to change the world."*  
+> — Nelson Mandela
+
+---
+
+<h3 align="center">⭐ Let's build technology that teaches, inspires, and transforms lives. ⭐</h3>
